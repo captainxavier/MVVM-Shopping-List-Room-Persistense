@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.5.0-rc01@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../zalego/Android-assessment-Java/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../zalego/Android-assessment-Java/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/res" />
+      <root url="file://$PROJECT_DIR$/../../../zalego/Android-assessment-Java/caches/transforms-3/27d91a8cd01d1c12e821919872071cfd/transformed/lifecycle-livedata-ktx-2.5.0-rc01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-ktx/2.5.0-rc01/9017d4f6a545e0fd90d4a40bef15b517fa32fbcb/lifecycle-livedata-ktx-2.5.0-rc01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../zalego/Android-assessment-Java/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-ktx/2.5.0-rc01/9017d4f6a545e0fd90d4a40bef15b517fa32fbcb/lifecycle-livedata-ktx-2.5.0-rc01-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
